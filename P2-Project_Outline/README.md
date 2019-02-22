@@ -15,12 +15,12 @@ I do a lot of help-desk type work at my job, and have found the trouble-ticketin
 **Time Tracking** - time spent in the ticket by accounts with `tech` roles will be automatically tracked and added to a `time-spent` total, to track both tech efficiency and productivity.
 **Statistics** - `tech`s will have a profile page with statistics about their performance, with average time per ticket, total tickets open, total tickets closed, etc. 
 ### Technologies
-Java
-Springboot
-MySQL
-Hibernate
-Thymeleaf
-Angular
+Java  
+Springboot  
+MySQL  
+Hibernate  
+Thymeleaf  
+Angular  
 ### What I'll Have to Learn
 JavaScript/Angular for time tracking while page is active
 ### Project Tracker
