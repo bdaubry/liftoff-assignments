@@ -8,7 +8,9 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+ - [Dashboard View - Tech](https://app.moqups.com/ennHhF9lvv/view/page/aa9df7b72)  
+ - [New ticket view](https://app.moqups.com/ennHhF9lvv/view/page/a4f88cf6a)  
+ - [Ticket view](https://app.moqups.com/ennHhF9lvv/view/page/a4e83cad9)  
 
 ### Project Tracker
 
